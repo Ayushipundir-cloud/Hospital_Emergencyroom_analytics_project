@@ -57,17 +57,7 @@ ToolPurposePower BI DesktopDashboard design & visualizationPower QueryData clean
 35.88-minute average wait time can be benchmarked against industry standards (target: <30 min)
 38% delayed attendance highlights a significant scheduling or triage bottleneck worth investigating
 Ages 60–69 have the highest ER visits (74 patients), suggesting elderly care is a critical focus area
-General Practice receives the most referrals, indicating potential for pre-ER triaging improvements
-
-
-📁 Project Structure
-hospital-er-dashboard/
-│
-├── Hospital_ER_Dashboard.pbix     # Main Power BI file
-├── data/
-│   └── hospital_er_data.csv       # Raw dataset used for the dashboard
-├── MIS_Recording.gif              # Dashboard demo preview
-└── README.md                      # Project documentation
+General Practice receives the most referrals, indicating potential for pre-ER triaging 
 
 🚀 How to Use
 
@@ -95,7 +85,9 @@ Dataset used for practice and learning purposes. Dashboard built to strengthen s
 
 📬 Feedback & Connect
 Have suggestions or want to collaborate? Feel free to open an issue or connect on LinkedIn.
+<img width="853" height="480" alt="MIS Recording" src="https://github.com/user-attachments/assets/f548ed98-77b0-478d-a658-a2c3885eed60" />
 
-https://github.com/Ayushipundir-cloud/Hospital_Emergencyroom_analytics_project/blob/main/MIS%20Recording.gif
+
+
 
 
