@@ -61,10 +61,6 @@ General Practice receives the most referrals, indicating potential for pre-ER tr
 
 🚀 How to Use
 
-Clone this repository
-
-bash   git clone https://github.com/your-username/hospital-er-dashboard.git
-
 Open the .pbix file in Power BI Desktop
 Load your data source — connect to the provided CSV or replace with your own hospital dataset
 Use the slicers (Year toggle: 2024/2023, Month filter: Jan–Sep) to explore the data interactively
